@@ -1,0 +1,12 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+
+127.0.0.1    localhost
+10.10.64.224 guzzoni.apple.com
+10.10.64.224 www.bing.com
+10.10.64.224 bing.com
+2607:f140:400:1036:226:8ff:fedd:fbe8 guzzoni.apple.com
